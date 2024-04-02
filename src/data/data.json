@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Proteina - Whey Protein - 1lb ",
+    "category": "Suplementos",
+    "price": "15.000",
+    "pictureUrl": "https://tse1.mm.bing.net/th?id=OIP.mSBoKJYxnq6Vlt-RjH8-YwAAAA&pid=Api&P=0&h=180",
+    "description": "La proteína en polvo es un suplemento alimenticio que se utiliza comúnmente para aumentar la ingesta de proteínas en la dieta diaria"
+  },
+  {
+    "id": 2,
+    "title": "Proteina - Whey Protein -  3lb",
+    "category": "Suplementos",
+    "price": "35.000",
+    "pictureUrl": "https://nutriforma.pe/wp-content/uploads/2019/01/NB-ULT-1000-02-01-1-e1601749963348.jpg",
+    "description": "La proteína en polvo es un suplemento alimenticio que se utiliza comúnmente para aumentar la ingesta de proteínas en la dieta diaria"
+  },
+  {
+    "id": 3,
+    "title": "Creatina - Ultratech - 300grs",
+    "category": "Suplementos",
+    "price": "30.000",
+    "pictureUrl": "https://cdn.batitienda.com/baticloud/images/product_picture_ec65db926c4845848f5c5dc99ca885ba_637892185841509616_0_m.jpg",
+    "description": "La creatina en polvo es un suplemento dietético popular entre los atletas y fisicoculturistas que buscan mejorar el rendimiento físico y aumentar la masa muscular."
+  },
+  {
+    "id": 4,
+    "title": "Creatina - Ultratech - 500grs",
+    "category": "Suplementos",
+    "price": "55.000",
+    "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_760813-MLA48890020582_012022-F.jpg",
+    "description": "La creatina en polvo es un suplemento dietético popular entre los atletas y fisicoculturistas que buscan mejorar el rendimiento físico y aumentar la masa muscular."
+  },
+  {
+    "id": 5,
+    "title": "Pre entreno - Star Nutrition - 285grs",
+    "category": "Suplementos",
+    "price": "10.000",
+    "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_964755-MLA43206346096_082020-F.jpg",
+    "description": "El pre-entreno es un suplemento diseñado para ser consumido antes del ejercicio físico con el fin de mejorar el rendimiento, la energía y la concentración durante el entrenamiento."
+  },
+  {
+    "id": 6,
+    "title": "Remera Oversize",
+    "category": "Indumentaria",
+    "price": "22.000",
+    "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_869048-MLA51623124116_092022-F.jpg",
+    "description": "Una remera oversize es una prenda de vestir de estilo amplio y holgado que se caracteriza por su corte más grande de lo habitual."
+  },
+  {
+    "id": 7,
+    "title": "Musculosa Size",
+    "category": "Indumentaria",
+    "price": "20.000",
+    "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_669242-MLA52388619960_112022-O.webp",
+    "description": "Una remera musculosa es una prenda de vestir sin mangas que se caracteriza por tener un corte que deja los hombros y los brazos al descubierto. "
+  },
+  {
+    "id": 8,
+    "title": "Short Entrenamiento",
+    "category": "Indumentaria",
+    "price": "15.000",
+    "pictureUrl": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwb8fc4252/products/REGU0789/REGU0789-1.JPG",
+    "description": "Una prenda de vestir diseñada específicamente para actividades físicas y deportivas."
+  },
+  {
+    "id": 9,
+    "title": "Remera Oversize Skinny",
+    "category": "Indumentaria",
+    "price": "22.000",
+    "pictureUrl": "https://http2.mlstatic.com/D_NQ_NP_846478-MLA51229650745_082022-F.jpg",
+    "description": "Una remera oversize es una prenda de vestir de estilo amplio y holgado que se caracteriza por su corte más grande de lo habitual."
+  },
+  {
+    "id": 10,
+    "title": "Medias Invisibles",
+    "category": "Indumentaria",
+    "price": "4.000",
+    "pictureUrl": "https://reebokarg.vtexassets.com/arquivos/ids/181621/Imagen-1.jpg?v=638115036631300000",
+    "description": "Las medias invisibles, también conocidas como calcetines invisibles o calcetines sin talón, son una opción de calcetines diseñados para ser usados con calzado bajo, como zapatos o zapatillas, sin que se vean por encima del borde del calzado"
+  }
+]
